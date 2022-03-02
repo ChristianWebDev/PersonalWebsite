@@ -1,9 +1,11 @@
-body, html {
+* {
     margin:0;
     padding:0;
+    box-sizing: border-box;
+    font-family: 'Jost';
 }
 
-header {
+header  {
     width: 100%;
     height: 70px;
     background-color: #282828;
@@ -15,7 +17,7 @@ h1 {
     float: left;
     margin-left: 20px;
     margin-top: 10px;
-    color: #39ca74;
+    color: #AA4465;
 }
 
 span {
@@ -43,5 +45,31 @@ a{
 a:hover {
     color: #F0c330;
 
+}
+
+.image {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('./images/water.jpg')
+    
+    
+}
+
+.image img {
+    height: 300px;
+    width: 300px;
+    border-style: inset white;
+    border-radius: 50%;
+    position:absolute;
+    left: 40%; 
+    top: 130px;
+    
+    
+    
 }
 
