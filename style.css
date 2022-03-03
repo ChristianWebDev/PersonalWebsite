@@ -22,7 +22,7 @@ header  {
 
 
 
-#logo{
+#logo {
     position:absolute;
     padding: 3px;
     float: left;
@@ -47,7 +47,7 @@ li {
     padding: 15px 30px;
 }
 
-a{
+a {
     text-align: center;
     color: #ffffff;
     text-decoration: none;
@@ -90,7 +90,7 @@ a:hover {
     color: white;
   }
 
-#Hobbies{
+#Hobbies {
     text-align: center;
     margin-top: 10px;
     color: #AA4465;
