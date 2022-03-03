@@ -11,5 +11,5 @@ to its design with more complex ideas using Javascript too. It has a simple navi
 
 Currently the website has no function and is designed to show a realistic representation on my current skill set and understanding of Web Developing. As the course continues, I hope to create, add and edit this website or any future websites with the new skills I aquire in this course.
 
-- Christian
+- Christian Amador
 
